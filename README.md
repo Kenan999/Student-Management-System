@@ -33,7 +33,7 @@
 * [![springboot][spring-boot]][spring-boot-url]
 * [![HTML5][HTML5]][HTML5-url]
 
-
+* [![Thymeleaf][Thymeleaf]][Thymeleaf-url]
 
 
 
@@ -86,6 +86,9 @@ Email: kenan.ali@gmx.net
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+
+[Thymeleaf-url]:https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white
+[thymeleaf]:https://www.thymeleaf.org/
 [HTML5-url]:https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [HTML5]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [MySQL-url]:https://www.mysql.com/
