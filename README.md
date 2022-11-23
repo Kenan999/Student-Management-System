@@ -62,15 +62,15 @@
 In this App you can:
 
 
- #### Delete Students
+ ### Delete Students
  
- ####Show the list of Students
+ ###Show the list of Students
  ![Students](https://user-images.githubusercontent.com/55302817/203664509-dd743c21-5482-42d8-b3b2-4a38403fbf54.png)
  
- ####Add Student
+ ###Add Student
  ![new](https://user-images.githubusercontent.com/55302817/203664425-ed8ba572-91f5-47dc-baa3-e212c486e9a6.png)
  
- ####Update Student
+ ###Update Student
  ![update](https://user-images.githubusercontent.com/55302817/203664483-7670c84a-b2c4-4743-bf3e-514de68f82b7.png)
 
 
