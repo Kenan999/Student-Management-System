@@ -40,8 +40,19 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-![Screenshot 2022-11-24 000957](https://user-images.githubusercontent.com/55302817/203661518-2df4777b-d387-4e57-ba1e-9303ace18f55.png)
 
+![Screenshot 2022-11-24 000957](https://user-images.githubusercontent.com/55302817/203661518-2df4777b-d387-4e57-ba1e-9303ace18f55.png)
+ 
+ Dependencies are used: 
+ 
+  <ul>
+      <li>spring-boot-starter-web</li>
+      <li>spring-boot-starter-thymeleaf</li>
+      <li>spring-boot-starter-data-jpa</li>
+      <li>spring-boot-devtools</li>
+      <li>mysql-connector-j</li>
+      <li>spring-boot-starter-test</li>
+    </ul>
 
 
 
