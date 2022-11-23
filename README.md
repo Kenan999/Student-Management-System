@@ -40,8 +40,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+![Screenshot 2022-11-24 000957](https://user-images.githubusercontent.com/55302817/203661518-2df4777b-d387-4e57-ba1e-9303ace18f55.png)
 
 
 
