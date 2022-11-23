@@ -58,6 +58,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![MySQL][MySQL]][MySQL-url]
 * [![springboot][spring-boot]][spring-boot-url]
+* [![HTML5][HTML5]][HTML5-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,6 +188,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[HTML5-url]:https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[HTML5]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [MySQL-url]:https://www.mysql.com/
 [MySQL]:https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [spring-boot-url]:https://spring.io
