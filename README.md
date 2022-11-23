@@ -32,7 +32,6 @@
 * [![MySQL][MySQL]][MySQL-url]
 * [![springboot][spring-boot]][spring-boot-url]
 * [![HTML5][HTML5]][HTML5-url]
-
 * [![Thymeleaf][Thymeleaf]][Thymeleaf-url]
 
 
