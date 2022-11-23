@@ -59,12 +59,23 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+In this App you can:
 
 
+  <ul>
+       <li>Show the list of Students</li>
+ ![Students](https://user-images.githubusercontent.com/55302817/203664509-dd743c21-5482-42d8-b3b2-4a38403fbf54.png)
+      <li>Add Student</li>
+ ![new](https://user-images.githubusercontent.com/55302817/203664425-ed8ba572-91f5-47dc-baa3-e212c486e9a6.png)
+
+      <li>Update Student</li>
+ ![update](https://user-images.githubusercontent.com/55302817/203664483-7670c84a-b2c4-4743-bf3e-514de68f82b7.png)
+
+
+
+      <li>Delete Students</li>
+ 
+    </ul>
 
 
 
