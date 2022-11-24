@@ -62,9 +62,6 @@
 In this App you can:
 
 
- #### Delete Students
- 
- <hr>
  
  #### Show the list of Students
  ![Students](https://user-images.githubusercontent.com/55302817/203664509-dd743c21-5482-42d8-b3b2-4a38403fbf54.png)
@@ -81,6 +78,11 @@ In this App you can:
  
 <hr>
 
+
+
+ #### Delete Students
+ 
+ <hr>
 
   
  
